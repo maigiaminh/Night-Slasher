@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 1f584bde0381af349a7a5a23b03057c8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 15
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638375123566276347
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: DroidZapper_Frame_0
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.548387}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 18
+      height: 31
+    spriteID: 9d9aef639823de64da622b86db9bf697
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: DroidZapper_Frame_1
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.548387}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 180
+      width: 18
+      height: 31
+    spriteID: a651919d7b49ecc478f3204ad668c5be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 180}
+  - name: DroidZapper_Frame_2
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 131
+      width: 18
+      height: 32
+    spriteID: a9df742336ffc5c4384e0e239c9cd041
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 131}
+  - name: DroidZapper_Frame_3
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 44
+      width: 18
+      height: 33
+    spriteID: aab6c8f16ee73d94eb3da51645e8dc15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 44}
+  - name: DroidZapper_Frame_4
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 44
+      width: 18
+      height: 33
+    spriteID: ea244b5867623474bb10ac67e83c2007
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 44}
+  - name: DroidZapper_Frame_5
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 44
+      width: 18
+      height: 33
+    spriteID: 650d79262fc86824da4e0fdeb5699697
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 44}
+  - name: DroidZapper_Frame_6
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 131
+      width: 18
+      height: 33
+    spriteID: 3167f65a68b99ba49828f26db937d213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 131}
+  - name: DroidZapper_Frame_7
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 131
+      width: 18
+      height: 33
+    spriteID: 4c747c4797a18d140810db7873166fdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 131}
+  - name: DroidZapper_Frame_8
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 131
+      width: 18
+      height: 34
+    spriteID: c2e508da6861e8f4a8da784a26d1e192
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 131}
+  - name: DroidZapper_Frame_9
+    originalName: 
+    pivot: {x: 0.57894725, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 44
+      width: 19
+      height: 33
+    spriteID: 6d9bf09a3070b9344a04c0d4c54ab0b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 44}
+  - name: DroidZapper_Frame_10
+    originalName: 
+    pivot: {x: 0.57894725, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 44
+      width: 19
+      height: 33
+    spriteID: 3474f35f70442c845b90a499cd0b0dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 44}
+  - name: DroidZapper_Frame_11
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 131
+      width: 18
+      height: 33
+    spriteID: 3fb9d14091b0ed942b23d681e43809d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 131}
+  - name: DroidZapper_Frame_12
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 131
+      width: 18
+      height: 33
+    spriteID: 8bb2734a4bb752c4a8818e248b0cbfe9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 131}
+  - name: DroidZapper_Frame_13
+    originalName: 
+    pivot: {x: 0.6315789, y: -2.3235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 131
+      width: 19
+      height: 34
+    spriteID: 1dc1d7df739c05045885d8a01c20c623
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 131}
+  - name: DroidZapper_Frame_14
+    originalName: 
+    pivot: {x: 0.57894725, y: -2.1944447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 85
+      width: 19
+      height: 36
+    spriteID: 3eb277c34ad82a643b2a901a342347f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 85}
+  - name: DroidZapper_Frame_15
+    originalName: 
+    pivot: {x: 0.49999994, y: -1.9268292}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 131
+      width: 28
+      height: 41
+    spriteID: a582b43804e31404aba8c02017ab0e6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 131}
+  - name: DroidZapper_Frame_16
+    originalName: 
+    pivot: {x: 0.27999994, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 50
+      height: 33
+    spriteID: e6deea62c7a70d3469865a0f447feb85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 44}
+  - name: DroidZapper_Frame_17
+    originalName: 
+    pivot: {x: 0.30434778, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 44
+      width: 46
+      height: 33
+    spriteID: b6407cc7b157fc14281fac963d72dc9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 44}
+  - name: DroidZapper_Frame_18
+    originalName: 
+    pivot: {x: 0.6666666, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 4
+      width: 21
+      height: 32
+    spriteID: 68d2a3573a1a666418d4e34cf0bddca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 4}
+  - name: DroidZapper_Frame_19
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 54
+      height: 32
+    spriteID: b9cc198901a1ae144a580ff01f67be68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: DroidZapper_Frame_20
+    originalName: 
+    pivot: {x: 0.6666666, y: -2.3939395}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 85
+      width: 21
+      height: 33
+    spriteID: 79292ad8758ae3b4384017a9b3799cf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 85}
+  - name: DroidZapper_Frame_21
+    originalName: 
+    pivot: {x: 0.26415092, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 53
+      height: 32
+    spriteID: ac46a434bd9dde54eb725d3242c59983
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 4}
+  - name: DroidZapper_Frame_22
+    originalName: 
+    pivot: {x: 0.6666666, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 21
+      height: 32
+    spriteID: 0b90238303606f0428e83600cbf94f8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 4}
+  - name: DroidZapper_Frame_23
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 131
+      width: 18
+      height: 32
+    spriteID: 325b31dfaaf87c9438b0a5b217c45cff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 131}
+  - name: DroidZapper_Frame_24
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 185
+      y: 4
+      width: 18
+      height: 32
+    spriteID: 5cecc56935b89a14c84660e1e2ec0385
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 185, y: 4}
+  - name: DroidZapper_Frame_25
+    originalName: 
+    pivot: {x: 0.61111104, y: -2.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 4
+      width: 18
+      height: 32
+    spriteID: bd6c3b42b3502fd448f8cffded621851
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 4}
+  - name: DroidZapper_Frame_26
+    originalName: 
+    pivot: {x: 0.5217391, y: -2.3235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 85
+      width: 23
+      height: 34
+    spriteID: 4189ed85ce6c6b94faf83fdde70afa27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 85}
+  - name: DroidZapper_Frame_27
+    originalName: 
+    pivot: {x: 0.53571427, y: -2.257143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 85
+      width: 28
+      height: 35
+    spriteID: 1a8fa246573bc894e93dd030dbbbb7d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 85}
+  - name: DroidZapper_Frame_28
+    originalName: 
+    pivot: {x: 0.51428574, y: -1.9736841}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 85
+      width: 35
+      height: 38
+    spriteID: cb4a99ab870cdef4dbbf7a3b17f98483
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 85}
+  - name: DroidZapper_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -1.9736841}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 85
+      width: 36
+      height: 38
+    spriteID: 7bcfb2dea92c4b244b65902ac004606b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 85}
+  - name: DroidZapper_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -1.9736841}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 85
+      width: 36
+      height: 38
+    spriteID: 37553b08aedb4f94fa2ad14e99d63da9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 85}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 813746374
+    name: DroidZapper
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: DroidZapper_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 31
+      spriteId: 9d9aef639823de64da622b86db9bf697
+    - name: DroidZapper_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 31
+      spriteId: a651919d7b49ecc478f3204ad668c5be
+    - name: DroidZapper_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 32
+      spriteId: a9df742336ffc5c4384e0e239c9cd041
+    - name: DroidZapper_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: aab6c8f16ee73d94eb3da51645e8dc15
+    - name: DroidZapper_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: ea244b5867623474bb10ac67e83c2007
+    - name: DroidZapper_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: 650d79262fc86824da4e0fdeb5699697
+    - name: DroidZapper_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: 3167f65a68b99ba49828f26db937d213
+    - name: DroidZapper_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: 4c747c4797a18d140810db7873166fdc
+    - name: DroidZapper_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 85
+        y: 80
+        width: 18
+        height: 34
+      spriteId: c2e508da6861e8f4a8da784a26d1e192
+    - name: DroidZapper_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 85
+        y: 79
+        width: 19
+        height: 33
+      spriteId: 6d9bf09a3070b9344a04c0d4c54ab0b2
+    - name: DroidZapper_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 85
+        y: 79
+        width: 19
+        height: 33
+      spriteId: 3474f35f70442c845b90a499cd0b0dc6
+    - name: DroidZapper_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 85
+        y: 80
+        width: 18
+        height: 33
+      spriteId: 3fb9d14091b0ed942b23d681e43809d8
+    - name: DroidZapper_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 33
+      spriteId: 8bb2734a4bb752c4a8818e248b0cbfe9
+    - name: DroidZapper_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 84
+        y: 79
+        width: 19
+        height: 34
+      spriteId: 1dc1d7df739c05045885d8a01c20c623
+    - name: DroidZapper_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 85
+        y: 79
+        width: 19
+        height: 36
+      spriteId: 3eb277c34ad82a643b2a901a342347f5
+    - name: DroidZapper_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 82
+        y: 79
+        width: 28
+        height: 41
+      spriteId: a582b43804e31404aba8c02017ab0e6d
+    - name: DroidZapper_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 82
+        y: 80
+        width: 50
+        height: 33
+      spriteId: e6deea62c7a70d3469865a0f447feb85
+    - name: DroidZapper_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 82
+        y: 79
+        width: 46
+        height: 33
+      spriteId: b6407cc7b157fc14281fac963d72dc9b
+    - name: DroidZapper_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 82
+        y: 79
+        width: 21
+        height: 32
+      spriteId: 68d2a3573a1a666418d4e34cf0bddca8
+    - name: DroidZapper_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 82
+        y: 79
+        width: 54
+        height: 32
+      spriteId: b9cc198901a1ae144a580ff01f67be68
+    - name: DroidZapper_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 82
+        y: 79
+        width: 21
+        height: 33
+      spriteId: 79292ad8758ae3b4384017a9b3799cf8
+    - name: DroidZapper_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 82
+        y: 79
+        width: 53
+        height: 32
+      spriteId: ac46a434bd9dde54eb725d3242c59983
+    - name: DroidZapper_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 82
+        y: 79
+        width: 21
+        height: 32
+      spriteId: 0b90238303606f0428e83600cbf94f8f
+    - name: DroidZapper_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 32
+      spriteId: 325b31dfaaf87c9438b0a5b217c45cff
+    - name: DroidZapper_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 32
+      spriteId: 5cecc56935b89a14c84660e1e2ec0385
+    - name: DroidZapper_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 85
+        y: 79
+        width: 18
+        height: 32
+      spriteId: bd6c3b42b3502fd448f8cffded621851
+    - name: DroidZapper_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 84
+        y: 79
+        width: 23
+        height: 34
+      spriteId: 4189ed85ce6c6b94faf83fdde70afa27
+    - name: DroidZapper_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 81
+        y: 79
+        width: 28
+        height: 35
+      spriteId: 1a8fa246573bc894e93dd030dbbbb7d6
+    - name: DroidZapper_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 78
+        y: 75
+        width: 35
+        height: 38
+      spriteId: cb4a99ab870cdef4dbbf7a3b17f98483
+    - name: DroidZapper_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 78
+        y: 75
+        width: 36
+        height: 38
+      spriteId: 7bcfb2dea92c4b244b65902ac004606b
+    - name: DroidZapper_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 78
+        y: 75
+        width: 36
+        height: 38
+      spriteId: 37553b08aedb4f94fa2ad14e99d63da9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

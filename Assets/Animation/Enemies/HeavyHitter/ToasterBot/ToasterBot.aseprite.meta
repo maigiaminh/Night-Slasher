@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 2b7b16c01af1a4b47a7db9c803f77e3a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638373495405741573
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: ToasterBot_Frame_0
+    originalName: 
+    pivot: {x: 2.75, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 139
+      width: 16
+      height: 15
+    spriteID: 2b0e132e750cb7f429676242caf05ca1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 139}
+  - name: ToasterBot_Frame_1
+    originalName: 
+    pivot: {x: 2.75, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 139
+      width: 16
+      height: 16
+    spriteID: 6e6d32a4675314941b7d6c90b485218a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 139}
+  - name: ToasterBot_Frame_2
+    originalName: 
+    pivot: {x: 2.75, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 16
+      height: 17
+    spriteID: f4a761b8121970e45958429d2ddc4e26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: ToasterBot_Frame_3
+    originalName: 
+    pivot: {x: 2.75, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 139
+      width: 16
+      height: 16
+    spriteID: ad2c2d9ebfe7f5c43ad913ada9df9d9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 139}
+  - name: ToasterBot_Frame_4
+    originalName: 
+    pivot: {x: 2.75, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 139
+      width: 16
+      height: 15
+    spriteID: 8ba92078e0d8a0f498e77a3f2ff4c51b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 139}
+  - name: ToasterBot_Frame_5
+    originalName: 
+    pivot: {x: 2.75, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 139
+      width: 16
+      height: 15
+    spriteID: 06ffea511b2d72b4a8c19dab62512f63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 139}
+  - name: ToasterBot_Frame_6
+    originalName: 
+    pivot: {x: 2.5882354, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 139
+      width: 17
+      height: 14
+    spriteID: 3a67098dc4c1d9c479f0d3b9d7008844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 139}
+  - name: ToasterBot_Frame_7
+    originalName: 
+    pivot: {x: 2.4444444, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 115
+      width: 18
+      height: 16
+    spriteID: 814fd832643f6644eaabf3dcadc2f3df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 115}
+  - name: ToasterBot_Frame_8
+    originalName: 
+    pivot: {x: 2.4444444, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 115
+      width: 18
+      height: 16
+    spriteID: 37877f2db2939f046be89b1524b936cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 115}
+  - name: ToasterBot_Frame_9
+    originalName: 
+    pivot: {x: 3.5833333, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 139
+      width: 12
+      height: 15
+    spriteID: c653ea75ada533041a0067dbcfd95532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 139}
+  - name: ToasterBot_Frame_10
+    originalName: 
+    pivot: {x: 2.15, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 115
+      width: 20
+      height: 15
+    spriteID: 954479bdd80c85f43bedbcb13057a206
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 115}
+  - name: ToasterBot_Frame_11
+    originalName: 
+    pivot: {x: 2.047619, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 115
+      width: 21
+      height: 16
+    spriteID: 05b5d0cbe034b3c4dab76c57feaf3df0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 115}
+  - name: ToasterBot_Frame_12
+    originalName: 
+    pivot: {x: 2.047619, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 115
+      width: 21
+      height: 16
+    spriteID: 874440df058db074daa0f354885a7119
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 115}
+  - name: ToasterBot_Frame_13
+    originalName: 
+    pivot: {x: 2, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 115
+      width: 22
+      height: 15
+    spriteID: 023126f7f087bda44bb01cacdfb69749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 115}
+  - name: ToasterBot_Frame_14
+    originalName: 
+    pivot: {x: 1.4666667, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 63
+      width: 30
+      height: 16
+    spriteID: c286a6da51269a547a0cbf5190f0d31e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 63}
+  - name: ToasterBot_Frame_15
+    originalName: 
+    pivot: {x: 1.5172414, y: -0.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 63
+      width: 29
+      height: 17
+    spriteID: 0b60d9cc7a3a5524d8272d1297963c90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 63}
+  - name: ToasterBot_Frame_16
+    originalName: 
+    pivot: {x: 1.4193549, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 63
+      width: 31
+      height: 15
+    spriteID: fab66a980c78ca446b36c49a8a0b7fd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 63}
+  - name: ToasterBot_Frame_17
+    originalName: 
+    pivot: {x: 1.5172414, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 63
+      width: 29
+      height: 15
+    spriteID: c13d466d09eac144a9977609cdf8745c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 63}
+  - name: ToasterBot_Frame_18
+    originalName: 
+    pivot: {x: 1.8333333, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 115
+      width: 24
+      height: 14
+    spriteID: c54e763ceed57134f90f74684d98b9d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 115}
+  - name: ToasterBot_Frame_19
+    originalName: 
+    pivot: {x: 0.45360824, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 34
+      width: 97
+      height: 20
+    spriteID: 03c90cb06bedf634c99261de64968174
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 34}
+  - name: ToasterBot_Frame_20
+    originalName: 
+    pivot: {x: 0.47311828, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 93
+      height: 22
+    spriteID: f99fd6a949081b242bbc8a8d97b55f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: ToasterBot_Frame_21
+    originalName: 
+    pivot: {x: 0.47311828, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 34
+      width: 93
+      height: 21
+    spriteID: 798d6ab7f4fabfe408cb07f0cc8f2ba7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 34}
+  - name: ToasterBot_Frame_22
+    originalName: 
+    pivot: {x: 0.4888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 90
+      height: 22
+    spriteID: eb74b99a19a49044da529dcf104746c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  - name: ToasterBot_Frame_23
+    originalName: 
+    pivot: {x: 0.5238095, y: -0.047619052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 63
+      width: 84
+      height: 21
+    spriteID: 3872099d927022a4fac95934a417d7ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 63}
+  - name: ToasterBot_Frame_24
+    originalName: 
+    pivot: {x: 2.5882354, y: -0.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 115
+      width: 17
+      height: 16
+    spriteID: 32ba13962d35d3f499653f538637b023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 115}
+  - name: ToasterBot_Frame_25
+    originalName: 
+    pivot: {x: 2.75, y: -0.3125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 139
+      width: 16
+      height: 16
+    spriteID: c3f461d0992502d48a2b8c78cfee4634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 139}
+  - name: ToasterBot_Frame_26
+    originalName: 
+    pivot: {x: 2.368421, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 115
+      width: 19
+      height: 15
+    spriteID: e2ca94613d1c1d64e97f16d14923480c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 115}
+  - name: ToasterBot_Frame_27
+    originalName: 
+    pivot: {x: 1.6071429, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 28
+      height: 15
+    spriteID: 8daf9ce7dce453e4298e8132925bee0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: ToasterBot_Frame_28
+    originalName: 
+    pivot: {x: 1.3589743, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 4
+      width: 39
+      height: 15
+    spriteID: f94835ef6fc45e548930a917d625e4af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 4}
+  - name: ToasterBot_Frame_29
+    originalName: 
+    pivot: {x: 1.325, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 34
+      width: 40
+      height: 15
+    spriteID: dc7c7daf9e6548e4ab1ba48007614686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 34}
+  - name: ToasterBot_Frame_30
+    originalName: 
+    pivot: {x: 2.9333334, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 139
+      width: 15
+      height: 15
+    spriteID: c499e3f2ebf504f4599f3f4c57e80c7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 139}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -166222001
+    name: ToasterBot
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: ToasterBot_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 15
+      spriteId: 2b0e132e750cb7f429676242caf05ca1
+    - name: ToasterBot_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 16
+      spriteId: 6e6d32a4675314941b7d6c90b485218a
+    - name: ToasterBot_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 17
+      spriteId: f4a761b8121970e45958429d2ddc4e26
+    - name: ToasterBot_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 16
+      spriteId: ad2c2d9ebfe7f5c43ad913ada9df9d9e
+    - name: ToasterBot_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 15
+      spriteId: 8ba92078e0d8a0f498e77a3f2ff4c51b
+    - name: ToasterBot_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 3
+        width: 16
+        height: 15
+      spriteId: 06ffea511b2d72b4a8c19dab62512f63
+    - name: ToasterBot_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 9
+        y: 6
+        width: 17
+        height: 14
+      spriteId: 3a67098dc4c1d9c479f0d3b9d7008844
+    - name: ToasterBot_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 9
+        y: 6
+        width: 18
+        height: 16
+      spriteId: 814fd832643f6644eaabf3dcadc2f3df
+    - name: ToasterBot_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 5
+        width: 18
+        height: 16
+      spriteId: 37877f2db2939f046be89b1524b936cd
+    - name: ToasterBot_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 3
+        width: 12
+        height: 15
+      spriteId: c653ea75ada533041a0067dbcfd95532
+    - name: ToasterBot_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 5
+        width: 20
+        height: 15
+      spriteId: 954479bdd80c85f43bedbcb13057a206
+    - name: ToasterBot_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 6
+        width: 21
+        height: 16
+      spriteId: 05b5d0cbe034b3c4dab76c57feaf3df0
+    - name: ToasterBot_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 5
+        width: 21
+        height: 16
+      spriteId: 874440df058db074daa0f354885a7119
+    - name: ToasterBot_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 3
+        width: 22
+        height: 15
+      spriteId: 023126f7f087bda44bb01cacdfb69749
+    - name: ToasterBot_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 3
+        width: 30
+        height: 16
+      spriteId: c286a6da51269a547a0cbf5190f0d31e
+    - name: ToasterBot_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 3
+        width: 29
+        height: 17
+      spriteId: 0b60d9cc7a3a5524d8272d1297963c90
+    - name: ToasterBot_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 3
+        width: 31
+        height: 15
+      spriteId: fab66a980c78ca446b36c49a8a0b7fd8
+    - name: ToasterBot_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 3
+        width: 29
+        height: 15
+      spriteId: c13d466d09eac144a9977609cdf8745c
+    - name: ToasterBot_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 9
+        y: 3
+        width: 24
+        height: 14
+      spriteId: c54e763ceed57134f90f74684d98b9d0
+    - name: ToasterBot_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 9
+        y: 0
+        width: 97
+        height: 20
+      spriteId: 03c90cb06bedf634c99261de64968174
+    - name: ToasterBot_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 9
+        y: 0
+        width: 93
+        height: 22
+      spriteId: f99fd6a949081b242bbc8a8d97b55f11
+    - name: ToasterBot_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 9
+        y: 0
+        width: 93
+        height: 21
+      spriteId: 798d6ab7f4fabfe408cb07f0cc8f2ba7
+    - name: ToasterBot_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 9
+        y: 0
+        width: 90
+        height: 22
+      spriteId: eb74b99a19a49044da529dcf104746c4
+    - name: ToasterBot_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 9
+        y: 1
+        width: 84
+        height: 21
+      spriteId: 3872099d927022a4fac95934a417d7ec
+    - name: ToasterBot_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 9
+        y: 6
+        width: 17
+        height: 16
+      spriteId: 32ba13962d35d3f499653f538637b023
+    - name: ToasterBot_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 9
+        y: 5
+        width: 16
+        height: 16
+      spriteId: c3f461d0992502d48a2b8c78cfee4634
+    - name: ToasterBot_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 8
+        y: 3
+        width: 19
+        height: 15
+      spriteId: e2ca94613d1c1d64e97f16d14923480c
+    - name: ToasterBot_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 8
+        y: 3
+        width: 28
+        height: 15
+      spriteId: 8daf9ce7dce453e4298e8132925bee0a
+    - name: ToasterBot_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 3
+        width: 39
+        height: 15
+      spriteId: f94835ef6fc45e548930a917d625e4af
+    - name: ToasterBot_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 3
+        width: 40
+        height: 15
+      spriteId: dc7c7daf9e6548e4ab1ba48007614686
+    - name: ToasterBot_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 9
+        y: 3
+        width: 15
+        height: 15
+      spriteId: c499e3f2ebf504f4599f3f4c57e80c7b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 106, y: 22}

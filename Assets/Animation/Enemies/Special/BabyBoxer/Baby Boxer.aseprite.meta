@@ -1,0 +1,1407 @@
+fileFormatVersion: 2
+guid: e4dd363aea536dc4cb20e895943fc2dc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638375988930635802
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Baby Boxer_Frame_0
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 91
+      width: 14
+      height: 23
+    spriteID: 606e5ffc60412484abf9fc5cbfe6eee4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 91}
+  - name: Baby Boxer_Frame_1
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 91
+      width: 14
+      height: 23
+    spriteID: 567f3763204b3384080783193ec3f26e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 91}
+  - name: Baby Boxer_Frame_2
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 91
+      width: 14
+      height: 23
+    spriteID: b4b55d5d455e3134d8b85edcf8ac9777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 91}
+  - name: Baby Boxer_Frame_3
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 91
+      width: 14
+      height: 23
+    spriteID: 5f236c5ac778aac43a68404aa859be42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 91}
+  - name: Baby Boxer_Frame_4
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 131
+      width: 14
+      height: 23
+    spriteID: 3f81fdb388ab04a44baf9b7ab2c16933
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 131}
+  - name: Baby Boxer_Frame_5
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 131
+      width: 14
+      height: 23
+    spriteID: e3925a15f9f7c7e438f796a5f229f18d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 131}
+  - name: Baby Boxer_Frame_6
+    originalName: 
+    pivot: {x: 2.5714288, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 131
+      width: 14
+      height: 23
+    spriteID: 5413f8b295c33aa47a3304c78b946361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 131}
+  - name: Baby Boxer_Frame_7
+    originalName: 
+    pivot: {x: 3, y: -1.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 162
+      width: 13
+      height: 16
+    spriteID: c736659c023f6924f8b0e4c8c4e19018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 162}
+  - name: Baby Boxer_Frame_8
+    originalName: 
+    pivot: {x: 3, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 131
+      width: 13
+      height: 17
+    spriteID: d2abfb982cb7fff4f95a8de0117a46a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 131}
+  - name: Baby Boxer_Frame_9
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 65
+      width: 14
+      height: 17
+    spriteID: e5e7d3bd7c1ae2441952d8822e556b05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 65}
+  - name: Baby Boxer_Frame_10
+    originalName: 
+    pivot: {x: 3.6000001, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 201
+      width: 10
+      height: 14
+    spriteID: 43e654f7d43e3544b95ab941962608bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 37, y: 201}
+  - name: Baby Boxer_Frame_11
+    originalName: 
+    pivot: {x: 3.5, y: -1.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 201
+      width: 10
+      height: 14
+    spriteID: 4f1a7b87e4562f84eb4fc1f35995bf96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 201}
+  - name: Baby Boxer_Frame_12
+    originalName: 
+    pivot: {x: 3.5, y: -1.0588236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 19
+      y: 201
+      width: 10
+      height: 17
+    spriteID: bf1fedd23a4e1d740991a77b0e040a8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 19, y: 201}
+  - name: Baby Boxer_Frame_13
+    originalName: 
+    pivot: {x: 2.846154, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 162
+      width: 13
+      height: 16
+    spriteID: efaa2ee75001a21419dd23e819370cec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 162}
+  - name: Baby Boxer_Frame_14
+    originalName: 
+    pivot: {x: 2.1666667, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 91
+      width: 18
+      height: 26
+    spriteID: 9d6cb79a390f8c44096466883cb69950
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 91}
+  - name: Baby Boxer_Frame_15
+    originalName: 
+    pivot: {x: 1.75, y: -0.67999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 91
+      width: 24
+      height: 25
+    spriteID: b239956e7b636f84092ea87436ece2c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 91}
+  - name: Baby Boxer_Frame_16
+    originalName: 
+    pivot: {x: 1.3333334, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 91
+      width: 30
+      height: 31
+    spriteID: aee602de83d1f60469abd6ac3754a0ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 91}
+  - name: Baby Boxer_Frame_17
+    originalName: 
+    pivot: {x: 0.7659574, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 47
+      height: 32
+    spriteID: e9321bd5db2cf564daa884000a27c667
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: Baby Boxer_Frame_18
+    originalName: 
+    pivot: {x: 0.49523813, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 65
+      width: 105
+      height: 16
+    spriteID: 26050c815b1ec2341be4882652245583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 65}
+  - name: Baby Boxer_Frame_19
+    originalName: 
+    pivot: {x: 0.46363634, y: -0.88888896}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 65
+      width: 110
+      height: 18
+    spriteID: 743da73bb3602f94ab11bb2a995d7ff5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 65}
+  - name: Baby Boxer_Frame_20
+    originalName: 
+    pivot: {x: 0.4778761, y: -0.88888896}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 38
+      width: 113
+      height: 18
+    spriteID: 4ac38854ef19bf342a36bd6371754750
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 38}
+  - name: Baby Boxer_Frame_21
+    originalName: 
+    pivot: {x: 0.4778761, y: -0.84210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 113
+      height: 19
+    spriteID: f0810712a86b10444a38d7598a1165a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Baby Boxer_Frame_22
+    originalName: 
+    pivot: {x: 0.4778761, y: -0.6956522}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 125
+      y: 4
+      width: 113
+      height: 23
+    spriteID: 6a4a53e93fa0a62469289408da35d1eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 125, y: 4}
+  - name: Baby Boxer_Frame_23
+    originalName: 
+    pivot: {x: 0.4778761, y: -0.61538464}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 113
+      height: 26
+    spriteID: 6401da0f1b4edc047a0365d6fb26414c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Baby Boxer_Frame_24
+    originalName: 
+    pivot: {x: 3, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 131
+      width: 13
+      height: 17
+    spriteID: fc99f3d0a67d30c4fa6bb41d14f8423d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 131}
+  - name: Baby Boxer_Frame_25
+    originalName: 
+    pivot: {x: 3, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 131
+      width: 13
+      height: 17
+    spriteID: 16b8828966dc20344828c45b0460ad25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 131}
+  - name: Baby Boxer_Frame_26
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 131
+      width: 14
+      height: 17
+    spriteID: 71f0cd115421a6a419b8e646f22b55ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 131}
+  - name: Baby Boxer_Frame_27
+    originalName: 
+    pivot: {x: 3.6000001, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 201
+      width: 10
+      height: 14
+    spriteID: e16b5f60cff305c49b4a6879ed0e6961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 201}
+  - name: Baby Boxer_Frame_28
+    originalName: 
+    pivot: {x: 3.6000001, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 201
+      width: 10
+      height: 14
+    spriteID: 07413a6cc9a58e04a8cdcae3541df4cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 201}
+  - name: Baby Boxer_Frame_29
+    originalName: 
+    pivot: {x: 3.6000001, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 10
+      height: 31
+    spriteID: bd76fb66f06d6214aab6be3d387f51e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: Baby Boxer_Frame_30
+    originalName: 
+    pivot: {x: 5, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 131
+      width: 7
+      height: 15
+    spriteID: 2520ddd873710a047975480641814003
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 131}
+  - name: Baby Boxer_Frame_31
+    originalName: 
+    pivot: {x: 5, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 241
+      width: 7
+      height: 11
+    spriteID: 4378d6fa49876fe4989a0366d4e7430b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 241}
+  - name: Baby Boxer_Frame_32
+    originalName: 
+    pivot: {x: -3.25, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 91
+      width: 8
+      height: 32
+    spriteID: dda7ff54d725753438bcad815e19b908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 91}
+  - name: Baby Boxer_Frame_33
+    originalName: 
+    pivot: {x: -3.857143, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 7
+      height: 32
+    spriteID: 4c103888a3f89254990992f060bca449
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: Baby Boxer_Frame_34
+    originalName: 
+    pivot: {x: -3.857143, y: -1.4545455}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 162
+      width: 7
+      height: 11
+    spriteID: c5cda27f5cc829640ad6bfd370f10fb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 162}
+  - name: Baby Boxer_Frame_35
+    originalName: 
+    pivot: {x: 3, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 22
+      y: 162
+      width: 13
+      height: 17
+    spriteID: c7d88f2f619aa424a8d3989338bcbc30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 22, y: 162}
+  - name: Baby Boxer_Frame_36
+    originalName: 
+    pivot: {x: 3, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 162
+      width: 13
+      height: 17
+    spriteID: bc15735098c2b0c4fb7cd2149da536cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 162}
+  - name: Baby Boxer_Frame_37
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 131
+      width: 14
+      height: 17
+    spriteID: a706ba399bdbf074cb4d598aaea15854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 131}
+  - name: Baby Boxer_Frame_38
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 131
+      width: 14
+      height: 17
+    spriteID: 97351f51a7aac314ea2af9056c349740
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 131}
+  - name: Baby Boxer_Frame_39
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 131
+      width: 14
+      height: 17
+    spriteID: d19e30bb89898324b8108329e445d4dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 131}
+  - name: Baby Boxer_Frame_40
+    originalName: 
+    pivot: {x: 2.7857144, y: -0.94117653}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 131
+      width: 14
+      height: 17
+    spriteID: aa8a5897b2296074abd3e4b4452020e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 131}
+  - name: Baby Boxer_Frame_41
+    originalName: 
+    pivot: {x: 2.7857144, y: -1.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 162
+      width: 14
+      height: 12
+    spriteID: 490315fdc180c584d81d6d62bf1cefdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 162}
+  - name: Baby Boxer_Frame_42
+    originalName: 
+    pivot: {x: 2.4375, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 162
+      width: 16
+      height: 11
+    spriteID: 7b1f72532788ecd44be78346b7977ae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 162}
+  - name: Baby Boxer_Frame_43
+    originalName: 
+    pivot: {x: 2.2941177, y: -1.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 162
+      width: 17
+      height: 12
+    spriteID: cee52dd92667bf04297f669044226569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 162}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 248388536
+    name: Baby Boxer
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Baby Boxer_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: 606e5ffc60412484abf9fc5cbfe6eee4
+    - name: Baby Boxer_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: 567f3763204b3384080783193ec3f26e
+    - name: Baby Boxer_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: b4b55d5d455e3134d8b85edcf8ac9777
+    - name: Baby Boxer_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: 5f236c5ac778aac43a68404aa859be42
+    - name: Baby Boxer_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: 3f81fdb388ab04a44baf9b7ab2c16933
+    - name: Baby Boxer_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: e3925a15f9f7c7e438f796a5f229f18d
+    - name: Baby Boxer_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 28
+        y: 16
+        width: 14
+        height: 23
+      spriteId: 5413f8b295c33aa47a3304c78b946361
+    - name: Baby Boxer_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 25
+        y: 17
+        width: 13
+        height: 16
+      spriteId: c736659c023f6924f8b0e4c8c4e19018
+    - name: Baby Boxer_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 25
+        y: 16
+        width: 13
+        height: 17
+      spriteId: d2abfb982cb7fff4f95a8de0117a46a4
+    - name: Baby Boxer_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: e5e7d3bd7c1ae2441952d8822e556b05
+    - name: Baby Boxer_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 28
+        y: 16
+        width: 10
+        height: 14
+      spriteId: 43e654f7d43e3544b95ab941962608bd
+    - name: Baby Boxer_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 29
+        y: 18
+        width: 10
+        height: 14
+      spriteId: 4f1a7b87e4562f84eb4fc1f35995bf96
+    - name: Baby Boxer_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 29
+        y: 18
+        width: 10
+        height: 17
+      spriteId: bf1fedd23a4e1d740991a77b0e040a8e
+    - name: Baby Boxer_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 27
+        y: 20
+        width: 13
+        height: 16
+      spriteId: efaa2ee75001a21419dd23e819370cec
+    - name: Baby Boxer_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 25
+        y: 16
+        width: 18
+        height: 26
+      spriteId: 9d6cb79a390f8c44096466883cb69950
+    - name: Baby Boxer_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 22
+        y: 17
+        width: 24
+        height: 25
+      spriteId: b239956e7b636f84092ea87436ece2c8
+    - name: Baby Boxer_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 24
+        y: 16
+        width: 30
+        height: 31
+      spriteId: aee602de83d1f60469abd6ac3754a0ba
+    - name: Baby Boxer_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 28
+        y: 15
+        width: 47
+        height: 32
+      spriteId: e9321bd5db2cf564daa884000a27c667
+    - name: Baby Boxer_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 12
+        y: 16
+        width: 105
+        height: 16
+      spriteId: 26050c815b1ec2341be4882652245583
+    - name: Baby Boxer_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 13
+        y: 16
+        width: 110
+        height: 18
+      spriteId: 743da73bb3602f94ab11bb2a995d7ff5
+    - name: Baby Boxer_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 16
+        width: 113
+        height: 18
+      spriteId: 4ac38854ef19bf342a36bd6371754750
+    - name: Baby Boxer_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 16
+        width: 113
+        height: 19
+      spriteId: f0810712a86b10444a38d7598a1165a6
+    - name: Baby Boxer_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 10
+        y: 16
+        width: 113
+        height: 23
+      spriteId: 6a4a53e93fa0a62469289408da35d1eb
+    - name: Baby Boxer_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 10
+        y: 16
+        width: 113
+        height: 26
+      spriteId: 6401da0f1b4edc047a0365d6fb26414c
+    - name: Baby Boxer_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 25
+        y: 16
+        width: 13
+        height: 17
+      spriteId: fc99f3d0a67d30c4fa6bb41d14f8423d
+    - name: Baby Boxer_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 25
+        y: 16
+        width: 13
+        height: 17
+      spriteId: 16b8828966dc20344828c45b0460ad25
+    - name: Baby Boxer_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: 71f0cd115421a6a419b8e646f22b55ce
+    - name: Baby Boxer_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 28
+        y: 16
+        width: 10
+        height: 14
+      spriteId: e16b5f60cff305c49b4a6879ed0e6961
+    - name: Baby Boxer_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 28
+        y: 16
+        width: 10
+        height: 14
+      spriteId: 07413a6cc9a58e04a8cdcae3541df4cf
+    - name: Baby Boxer_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 28
+        y: 16
+        width: 10
+        height: 31
+      spriteId: bd76fb66f06d6214aab6be3d387f51e2
+    - name: Baby Boxer_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 29
+        y: 20
+        width: 7
+        height: 15
+      spriteId: 2520ddd873710a047975480641814003
+    - name: Baby Boxer_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 29
+        y: 20
+        width: 7
+        height: 11
+      spriteId: 4378d6fa49876fe4989a0366d4e7430b
+    - name: Baby Boxer_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 90
+        y: 16
+        width: 8
+        height: 32
+      spriteId: dda7ff54d725753438bcad815e19b908
+    - name: Baby Boxer_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 91
+        y: 16
+        width: 7
+        height: 32
+      spriteId: 4c103888a3f89254990992f060bca449
+    - name: Baby Boxer_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 91
+        y: 16
+        width: 7
+        height: 11
+      spriteId: c5cda27f5cc829640ad6bfd370f10fb0
+    - name: Baby Boxer_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 25
+        y: 16
+        width: 13
+        height: 17
+      spriteId: c7d88f2f619aa424a8d3989338bcbc30
+    - name: Baby Boxer_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 25
+        y: 16
+        width: 13
+        height: 17
+      spriteId: bc15735098c2b0c4fb7cd2149da536cd
+    - name: Baby Boxer_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: a706ba399bdbf074cb4d598aaea15854
+    - name: Baby Boxer_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: 97351f51a7aac314ea2af9056c349740
+    - name: Baby Boxer_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: d19e30bb89898324b8108329e445d4dc
+    - name: Baby Boxer_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 25
+        y: 16
+        width: 14
+        height: 17
+      spriteId: aa8a5897b2296074abd3e4b4452020e9
+    - name: Baby Boxer_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 25
+        y: 21
+        width: 14
+        height: 12
+      spriteId: 490315fdc180c584d81d6d62bf1cefdb
+    - name: Baby Boxer_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 25
+        y: 22
+        width: 16
+        height: 11
+      spriteId: 7b1f72532788ecd44be78346b7977ae6
+    - name: Baby Boxer_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 25
+        y: 21
+        width: 17
+        height: 12
+      spriteId: cee52dd92667bf04297f669044226569
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 48}

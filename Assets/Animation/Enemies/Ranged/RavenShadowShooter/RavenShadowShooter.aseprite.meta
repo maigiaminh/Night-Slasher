@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 546007cb752e3214792b432d79a269d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: charge
+    second: {fileID: 7400000, guid: 6bb64b6c8d3ea7a48a9875d076da5e73, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: damaged
+    second: {fileID: 7400000, guid: c704ca33debbfe54d99359d2ac68807e, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: death
+    second: {fileID: 7400000, guid: 38d6000ea5481304bafa94ae2b724ad9, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: fire dash
+    second: {fileID: 7400000, guid: 9810add26b814c44fb47c9e57c4f6618, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: move
+    second: {fileID: 7400000, guid: 7980a8cb6af4554459c394bc23cee42f, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: shoot
+    second: {fileID: 7400000, guid: 868946429dd1d64499949826cfbd0555, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: static idle
+    second: {fileID: 7400000, guid: f67c390967c2ff24e9193232e1673c7a, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: wake
+    second: {fileID: 7400000, guid: e91fa0abfedafe74dbbb796d93c36479, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638370823814361268
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: RavenShadowShooter_Frame_0
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 128
+      width: 28
+      height: 22
+    spriteID: 3ee23d5c03173934e8ab3c56b17afa13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 128}
+  - name: RavenShadowShooter_Frame_1
+    originalName: 
+    pivot: {x: 0.904762, y: -4.8235297}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 188
+      width: 21
+      height: 17
+    spriteID: db800d6c1001b6340b61de7d07661e55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 188}
+  - name: RavenShadowShooter_Frame_2
+    originalName: 
+    pivot: {x: 0.8636365, y: -4.555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 188
+      width: 22
+      height: 18
+    spriteID: ebe2985cddc41b741802ecb99db1a7dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 188}
+  - name: RavenShadowShooter_Frame_3
+    originalName: 
+    pivot: {x: 0.6551725, y: -3.5652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 95
+      width: 29
+      height: 23
+    spriteID: 411845c5b79e6da448ea4604e48a42d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 95}
+  - name: RavenShadowShooter_Frame_6
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 128
+      width: 28
+      height: 22
+    spriteID: fa929c61879bbcd4cad3b8cc49a869e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 128}
+  - name: RavenShadowShooter_Frame_15
+    originalName: 
+    pivot: {x: 0.6129033, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 65
+      width: 31
+      height: 22
+    spriteID: d3697ff140e16ba488557b45bf43c437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 65}
+  - name: RavenShadowShooter_Frame_16
+    originalName: 
+    pivot: {x: 0.6129033, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 95
+      width: 31
+      height: 22
+    spriteID: 29ef7112b6c15ca429a45e9ae5fa861f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 95}
+  - name: RavenShadowShooter_Frame_17
+    originalName: 
+    pivot: {x: 0.6129033, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 95
+      width: 31
+      height: 22
+    spriteID: 80c2080124938a845a282aa8e0a1aead
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 95}
+  - name: RavenShadowShooter_Frame_18
+    originalName: 
+    pivot: {x: 0.6333334, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 95
+      width: 30
+      height: 22
+    spriteID: c9bc1ff906b8842458405a985e318f75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 95}
+  - name: RavenShadowShooter_Frame_19
+    originalName: 
+    pivot: {x: 0.452381, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 4
+      width: 42
+      height: 22
+    spriteID: b25a0ef70a083a241b7caef8c93d3430
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 4}
+  - name: RavenShadowShooter_Frame_20
+    originalName: 
+    pivot: {x: 0.452381, y: -3.5652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 186
+      y: 34
+      width: 42
+      height: 23
+    spriteID: 431fa004da549034c8815ed47153d94e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 186, y: 34}
+  - name: RavenShadowShooter_Frame_21
+    originalName: 
+    pivot: {x: 0.452381, y: -3.4166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 95
+      width: 42
+      height: 24
+    spriteID: ac21174cac7ae0f47aca789e2ee2fa3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 95}
+  - name: RavenShadowShooter_Frame_22
+    originalName: 
+    pivot: {x: 0.44186053, y: -3.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 95
+      width: 43
+      height: 25
+    spriteID: 48f6da3799e7e35439b7ab1c5b21f8a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 95}
+  - name: RavenShadowShooter_Frame_30
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 28
+      height: 22
+    spriteID: cbea1bb78621d224b856af63f4e83bf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 128}
+  - name: RavenShadowShooter_Frame_31
+    originalName: 
+    pivot: {x: 0.6551725, y: -4.1000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 159
+      width: 29
+      height: 20
+    spriteID: a4490b0ddd4953249a8b6716ae21044f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 159}
+  - name: RavenShadowShooter_Frame_32
+    originalName: 
+    pivot: {x: 0.73076934, y: -5.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 188
+      width: 26
+      height: 16
+    spriteID: 7a44a0887f5f5cc46b6f71698fca5cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 188}
+  - name: RavenShadowShooter_Frame_33
+    originalName: 
+    pivot: {x: 0.70370376, y: -4.1000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 159
+      width: 27
+      height: 20
+    spriteID: 86d89d3538f915a4c9329a811f205bcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 159}
+  - name: RavenShadowShooter_Frame_34
+    originalName: 
+    pivot: {x: 0.925926, y: -4.8235297}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 188
+      width: 27
+      height: 17
+    spriteID: 4da8925016fc71e478e0467007fe0da9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 188}
+  - name: RavenShadowShooter_Frame_35
+    originalName: 
+    pivot: {x: 0.89655167, y: -7.454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 188
+      width: 29
+      height: 11
+    spriteID: 447bb419ee162a641a3740198c3a8d6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 188}
+  - name: RavenShadowShooter_Frame_36
+    originalName: 
+    pivot: {x: 0.89655167, y: -7.454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 188
+      width: 29
+      height: 11
+    spriteID: 95fe95193e23d7b4fa4cc025ee88ec34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 188}
+  - name: RavenShadowShooter_Frame_37
+    originalName: 
+    pivot: {x: 0.89655167, y: -7.454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 216
+      width: 29
+      height: 11
+    spriteID: 5d3c6383143c678419b0089be7afc2be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 216}
+  - name: RavenShadowShooter_Frame_4
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 128
+      width: 28
+      height: 22
+    spriteID: 32274edee6e15e24392bc894218d5a1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 128}
+  - name: RavenShadowShooter_Frame_5
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 128
+      width: 28
+      height: 22
+    spriteID: f2e49fea388ef4c45bb7cc3be9efbcb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 128}
+  - name: RavenShadowShooter_Frame_7
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.5652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 128
+      width: 28
+      height: 23
+    spriteID: 718db8ca35d5e8d4b9665dd79893a384
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 128}
+  - name: RavenShadowShooter_Frame_8
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.9047623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 159
+      width: 28
+      height: 21
+    spriteID: 12a49cbe4e268504ea2a61058e4dcbdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 159}
+  - name: RavenShadowShooter_Frame_9
+    originalName: 
+    pivot: {x: 0.6551725, y: -4.1000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 159
+      width: 29
+      height: 20
+    spriteID: c29dc4041d802da4497acceabb593279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 159}
+  - name: RavenShadowShooter_Frame_10
+    originalName: 
+    pivot: {x: 0.6785715, y: -3.9047623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 159
+      width: 28
+      height: 21
+    spriteID: 4c438a0819f898145bd640ee6253821d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 40, y: 159}
+  - name: RavenShadowShooter_Frame_11
+    originalName: 
+    pivot: {x: 0.73076934, y: -3.5652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 128
+      width: 26
+      height: 23
+    spriteID: 19e2be3491114a4448b32e78e9ef565c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 128}
+  - name: RavenShadowShooter_Frame_12
+    originalName: 
+    pivot: {x: 0.73076934, y: -3.9047623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 159
+      width: 26
+      height: 21
+    spriteID: 51035e42d83ec1946b58ffebcc521280
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 159}
+  - name: RavenShadowShooter_Frame_13
+    originalName: 
+    pivot: {x: 0.70370376, y: -4.1000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 27
+      height: 20
+    spriteID: b26f18863c0bca74ea7e7a7a37fdb806
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+  - name: RavenShadowShooter_Frame_14
+    originalName: 
+    pivot: {x: 0.73076934, y: -3.9047623}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 159
+      width: 26
+      height: 21
+    spriteID: fca5a27ac4627a849a091f494bad7ef0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 184, y: 159}
+  - name: RavenShadowShooter_Frame_24
+    originalName: 
+    pivot: {x: 0.011235977, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 89
+      height: 22
+    spriteID: c0b010d19078ced489485bb92bf2e8fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: RavenShadowShooter_Frame_25
+    originalName: 
+    pivot: {x: -0.071428575, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 4
+      width: 84
+      height: 22
+    spriteID: 2b53d3a55b254e94b8f81205ae7dae4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 4}
+  - name: RavenShadowShooter_Frame_26
+    originalName: 
+    pivot: {x: -0.09638558, y: -3.521739}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 34
+      width: 83
+      height: 23
+    spriteID: 5a3d8783553a6fe4da503e099f0ab059
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 34}
+  - name: RavenShadowShooter_Frame_27
+    originalName: 
+    pivot: {x: -0.09638558, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 34
+      width: 83
+      height: 22
+    spriteID: 74b70dc05ace19b48b84c21c237da1e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 34}
+  - name: RavenShadowShooter_Frame_28
+    originalName: 
+    pivot: {x: -0.09638558, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 65
+      width: 83
+      height: 22
+    spriteID: 264cef4af71be814081d610f3d2edf8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 65}
+  - name: RavenShadowShooter_Frame_29
+    originalName: 
+    pivot: {x: -2.7826085, y: -3.727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 228
+      y: 65
+      width: 23
+      height: 22
+    spriteID: af3bd7fb0cd93084ebf2782b1d09984e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 228, y: 65}
+  - name: RavenShadowShooter_Frame_23
+    originalName: 
+    pivot: {x: 0.046511654, y: -4.8235297}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 65
+      width: 86
+      height: 17
+    spriteID: df6aadde2d27ec345a8fc66789653583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 65}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1156274916
+    name: RavenShadowShooter
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: RavenShadowShooter_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 22
+      spriteId: 3ee23d5c03173934e8ab3c56b17afa13
+    - name: RavenShadowShooter_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 77
+        y: 82
+        width: 21
+        height: 17
+      spriteId: db800d6c1001b6340b61de7d07661e55
+    - name: RavenShadowShooter_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 77
+        y: 82
+        width: 22
+        height: 18
+      spriteId: ebe2985cddc41b741802ecb99db1a7dc
+    - name: RavenShadowShooter_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 77
+        y: 82
+        width: 29
+        height: 23
+      spriteId: 411845c5b79e6da448ea4604e48a42d0
+    - name: RavenShadowShooter_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 22
+      spriteId: fa929c61879bbcd4cad3b8cc49a869e9
+    - name: RavenShadowShooter_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 77
+        y: 82
+        width: 31
+        height: 22
+      spriteId: d3697ff140e16ba488557b45bf43c437
+    - name: RavenShadowShooter_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 77
+        y: 82
+        width: 31
+        height: 22
+      spriteId: 29ef7112b6c15ca429a45e9ae5fa861f
+    - name: RavenShadowShooter_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 77
+        y: 82
+        width: 31
+        height: 22
+      spriteId: 80c2080124938a845a282aa8e0a1aead
+    - name: RavenShadowShooter_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 77
+        y: 82
+        width: 30
+        height: 22
+      spriteId: c9bc1ff906b8842458405a985e318f75
+    - name: RavenShadowShooter_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 77
+        y: 82
+        width: 42
+        height: 22
+      spriteId: b25a0ef70a083a241b7caef8c93d3430
+    - name: RavenShadowShooter_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 77
+        y: 82
+        width: 42
+        height: 23
+      spriteId: 431fa004da549034c8815ed47153d94e
+    - name: RavenShadowShooter_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 77
+        y: 82
+        width: 42
+        height: 24
+      spriteId: ac21174cac7ae0f47aca789e2ee2fa3b
+    - name: RavenShadowShooter_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 77
+        y: 82
+        width: 43
+        height: 25
+      spriteId: 48f6da3799e7e35439b7ab1c5b21f8a2
+    - name: RavenShadowShooter_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 22
+      spriteId: cbea1bb78621d224b856af63f4e83bf0
+    - name: RavenShadowShooter_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 77
+        y: 82
+        width: 29
+        height: 20
+      spriteId: a4490b0ddd4953249a8b6716ae21044f
+    - name: RavenShadowShooter_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 77
+        y: 82
+        width: 26
+        height: 16
+      spriteId: 7a44a0887f5f5cc46b6f71698fca5cb7
+    - name: RavenShadowShooter_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 77
+        y: 82
+        width: 27
+        height: 20
+      spriteId: 86d89d3538f915a4c9329a811f205bcc
+    - name: RavenShadowShooter_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 71
+        y: 82
+        width: 27
+        height: 17
+      spriteId: 4da8925016fc71e478e0467007fe0da9
+    - name: RavenShadowShooter_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 70
+        y: 82
+        width: 29
+        height: 11
+      spriteId: 447bb419ee162a641a3740198c3a8d6e
+    - name: RavenShadowShooter_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 70
+        y: 82
+        width: 29
+        height: 11
+      spriteId: 95fe95193e23d7b4fa4cc025ee88ec34
+    - name: RavenShadowShooter_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 70
+        y: 82
+        width: 29
+        height: 11
+      spriteId: 5d3c6383143c678419b0089be7afc2be
+    - name: RavenShadowShooter_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 22
+      spriteId: 32274edee6e15e24392bc894218d5a1b
+    - name: RavenShadowShooter_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 22
+      spriteId: f2e49fea388ef4c45bb7cc3be9efbcb2
+    - name: RavenShadowShooter_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 23
+      spriteId: 718db8ca35d5e8d4b9665dd79893a384
+    - name: RavenShadowShooter_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 21
+      spriteId: 12a49cbe4e268504ea2a61058e4dcbdc
+    - name: RavenShadowShooter_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 77
+        y: 82
+        width: 29
+        height: 20
+      spriteId: c29dc4041d802da4497acceabb593279
+    - name: RavenShadowShooter_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 77
+        y: 82
+        width: 28
+        height: 21
+      spriteId: 4c438a0819f898145bd640ee6253821d
+    - name: RavenShadowShooter_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 77
+        y: 82
+        width: 26
+        height: 23
+      spriteId: 19e2be3491114a4448b32e78e9ef565c
+    - name: RavenShadowShooter_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 77
+        y: 82
+        width: 26
+        height: 21
+      spriteId: 51035e42d83ec1946b58ffebcc521280
+    - name: RavenShadowShooter_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 77
+        y: 82
+        width: 27
+        height: 20
+      spriteId: b26f18863c0bca74ea7e7a7a37fdb806
+    - name: RavenShadowShooter_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 77
+        y: 82
+        width: 26
+        height: 21
+      spriteId: fca5a27ac4627a849a091f494bad7ef0
+    - name: RavenShadowShooter_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 95
+        y: 82
+        width: 89
+        height: 22
+      spriteId: c0b010d19078ced489485bb92bf2e8fc
+    - name: RavenShadowShooter_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 102
+        y: 82
+        width: 84
+        height: 22
+      spriteId: 2b53d3a55b254e94b8f81205ae7dae4e
+    - name: RavenShadowShooter_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 104
+        y: 81
+        width: 83
+        height: 23
+      spriteId: 5a3d8783553a6fe4da503e099f0ab059
+    - name: RavenShadowShooter_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 104
+        y: 82
+        width: 83
+        height: 22
+      spriteId: 74b70dc05ace19b48b84c21c237da1e1
+    - name: RavenShadowShooter_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 104
+        y: 82
+        width: 83
+        height: 22
+      spriteId: 264cef4af71be814081d610f3d2edf8c
+    - name: RavenShadowShooter_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 160
+        y: 82
+        width: 23
+        height: 22
+      spriteId: af3bd7fb0cd93084ebf2782b1d09984e
+    - name: RavenShadowShooter_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 92
+        y: 82
+        width: 86
+        height: 17
+      spriteId: df6aadde2d27ec345a8fc66789653583
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

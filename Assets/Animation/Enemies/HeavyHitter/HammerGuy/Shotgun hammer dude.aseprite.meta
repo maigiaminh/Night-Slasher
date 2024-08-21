@@ -1,0 +1,1659 @@
+fileFormatVersion: 2
+guid: 38d4b80770ba93c41a5f155d01ce9adc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638372575869868582
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Shotgun hammer dude_Frame_0
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 19
+      height: 28
+    spriteID: dca511e2524654440a48817e9ca15cbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 160}
+  - name: Shotgun hammer dude_Frame_1
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 160
+      width: 19
+      height: 28
+    spriteID: 86b0a65de582c3b458f0287e4460c14e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 160}
+  - name: Shotgun hammer dude_Frame_2
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 160
+      width: 19
+      height: 28
+    spriteID: 64f710cb0b8ce494f8a88cf15f4736d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 160}
+  - name: Shotgun hammer dude_Frame_3
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 160
+      width: 19
+      height: 28
+    spriteID: d6b088bba8726de439804ef462719eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 160}
+  - name: Shotgun hammer dude_Frame_4
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 160
+      width: 19
+      height: 28
+    spriteID: a04a4af7fd995344e9ffde66056c8386
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 160}
+  - name: Shotgun hammer dude_Frame_5
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 160
+      width: 19
+      height: 28
+    spriteID: 15f762d16d0972446ad7a9a27512885c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 160}
+  - name: Shotgun hammer dude_Frame_6
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 160
+      width: 19
+      height: 28
+    spriteID: 942befc88900298468516526b755f2d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 160}
+  - name: Shotgun hammer dude_Frame_7
+    originalName: 
+    pivot: {x: 0.90000004, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 114
+      width: 20
+      height: 28
+    spriteID: ca3a9f21df3c3b94ba6c2be32a7841be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 114}
+  - name: Shotgun hammer dude_Frame_8
+    originalName: 
+    pivot: {x: 0.904762, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 114
+      width: 21
+      height: 28
+    spriteID: e49c38c7926a28449a46291cb5ff8af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 114}
+  - name: Shotgun hammer dude_Frame_9
+    originalName: 
+    pivot: {x: 0.9090909, y: -2.8275864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 114
+      width: 22
+      height: 29
+    spriteID: 0d3b7ad8b0b9292469bd775d0a605b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 114}
+  - name: Shotgun hammer dude_Frame_10
+    originalName: 
+    pivot: {x: 0.90000004, y: -2.612903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 247
+      y: 114
+      width: 20
+      height: 31
+    spriteID: 53e05afdfddf44145939bb92a9cecec3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 114}
+  - name: Shotgun hammer dude_Frame_11
+    originalName: 
+    pivot: {x: 1, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 310
+      y: 160
+      width: 15
+      height: 28
+    spriteID: 165e2636416ec04478daa42ee369c13d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 160}
+  - name: Shotgun hammer dude_Frame_12
+    originalName: 
+    pivot: {x: 1, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 160
+      width: 15
+      height: 28
+    spriteID: ab3985d7e677c604db4a0d77f8033b4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 160}
+  - name: Shotgun hammer dude_Frame_13
+    originalName: 
+    pivot: {x: 1, y: -2.8275864}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 196
+      width: 15
+      height: 29
+    spriteID: b64c86f0ca0742a4dbeefd93e991e2b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 196}
+  - name: Shotgun hammer dude_Frame_14
+    originalName: 
+    pivot: {x: 1, y: -2.612903}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 196
+      width: 15
+      height: 31
+    spriteID: 121dc3439c11a5345b455736efdfeda9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 196}
+  - name: Shotgun hammer dude_Frame_15
+    originalName: 
+    pivot: {x: 0.8947367, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 160
+      width: 19
+      height: 28
+    spriteID: 06140cabc4fd1a74aac157e586035478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 160}
+  - name: Shotgun hammer dude_Frame_16
+    originalName: 
+    pivot: {x: 0.94444436, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 160
+      width: 18
+      height: 28
+    spriteID: 4416a17dd7715fc4ca125046ce0df2b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 160}
+  - name: Shotgun hammer dude_Frame_17
+    originalName: 
+    pivot: {x: 0.8636365, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 114
+      width: 22
+      height: 31
+    spriteID: 4b251f24bedb09a48bb91aeb849bcbf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 114}
+  - name: Shotgun hammer dude_Frame_18
+    originalName: 
+    pivot: {x: 0.974359, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 114
+      width: 39
+      height: 31
+    spriteID: dd77ad69812c7f0429ba7094858432ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 114}
+  - name: Shotgun hammer dude_Frame_19
+    originalName: 
+    pivot: {x: 1.0263157, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 114
+      width: 38
+      height: 31
+    spriteID: a2b8c82ec1d654342818fa2cdc817e2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 114}
+  - name: Shotgun hammer dude_Frame_20
+    originalName: 
+    pivot: {x: 1.0555556, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 114
+      width: 36
+      height: 31
+    spriteID: 9e453b2e466c1af44a26877a0510c9a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 114}
+  - name: Shotgun hammer dude_Frame_21
+    originalName: 
+    pivot: {x: 0.64912283, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 191
+      y: 69
+      width: 57
+      height: 33
+    spriteID: 77b78e15143a1c54cbac0e484bc3f40e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: 69}
+  - name: Shotgun hammer dude_Frame_22
+    originalName: 
+    pivot: {x: 0.6153846, y: -2.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 317
+      y: 69
+      width: 52
+      height: 34
+    spriteID: 956bc340231287a4ebc13706c5803953
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 317, y: 69}
+  - name: Shotgun hammer dude_Frame_23
+    originalName: 
+    pivot: {x: 0.6226415, y: -2.2857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 69
+      width: 53
+      height: 35
+    spriteID: 96c73768362933a458e04290de5d7814
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 69}
+  - name: Shotgun hammer dude_Frame_24
+    originalName: 
+    pivot: {x: 0.6181818, y: -2.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 69
+      width: 55
+      height: 36
+    spriteID: b8586e682c34e9042b0b5c76bde2ed63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 69}
+  - name: Shotgun hammer dude_Frame_25
+    originalName: 
+    pivot: {x: 0.5849057, y: -2.162162}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 69
+      width: 53
+      height: 37
+    spriteID: 0fa80f4cb97e6b44f9fb7db1359bca5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 69}
+  - name: Shotgun hammer dude_Frame_26
+    originalName: 
+    pivot: {x: 0.58181816, y: -2.162162}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 69
+      width: 55
+      height: 37
+    spriteID: 288632c2061c03841b0cf289030f0b0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 69}
+  - name: Shotgun hammer dude_Frame_27
+    originalName: 
+    pivot: {x: 0.368421, y: -2.105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 38
+      height: 38
+    spriteID: f31ee47b6f783a649bf9a42853d36eaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: Shotgun hammer dude_Frame_28
+    originalName: 
+    pivot: {x: 0.3421053, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 69
+      width: 38
+      height: 33
+    spriteID: ee550d716310085448b40cc07e596407
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 465, y: 69}
+  - name: Shotgun hammer dude_Frame_29
+    originalName: 
+    pivot: {x: 0.25454548, y: -3.4782608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 4
+      width: 110
+      height: 23
+    spriteID: bd615dff106fcbe4ba5f7811a48ce4fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 4}
+  - name: Shotgun hammer dude_Frame_30
+    originalName: 
+    pivot: {x: 0.26050422, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 4
+      width: 119
+      height: 24
+    spriteID: 67439419c652dd44bac929bee0c9dcc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 4}
+  - name: Shotgun hammer dude_Frame_31
+    originalName: 
+    pivot: {x: 0.26666665, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 120
+      height: 25
+    spriteID: fb0ffbdb1fead8c40a3460562a450c4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+  - name: Shotgun hammer dude_Frame_32
+    originalName: 
+    pivot: {x: 0.2644628, y: -3.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 121
+      height: 26
+    spriteID: 3bd0ea5dfa0371f4d9b7a79edf584dfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Shotgun hammer dude_Frame_33
+    originalName: 
+    pivot: {x: 0.29090908, y: -3.4782608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 110
+      height: 23
+    spriteID: cdefd7fdb2121814bb310746488e0afb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Shotgun hammer dude_Frame_34
+    originalName: 
+    pivot: {x: 0.30188677, y: -3.4782608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 38
+      width: 106
+      height: 23
+    spriteID: 0252fcc7b5d4b8849b6c300562f63240
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 38}
+  - name: Shotgun hammer dude_Frame_35
+    originalName: 
+    pivot: {x: 0.40506324, y: -4.210526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 38
+      width: 79
+      height: 19
+    spriteID: 4e373bdb80eec364c83e89b96a84b75f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 38}
+  - name: Shotgun hammer dude_Frame_36
+    originalName: 
+    pivot: {x: 0.4, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 69
+      width: 80
+      height: 20
+    spriteID: 27a668324a62eba438a33cad4c891c12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 69}
+  - name: Shotgun hammer dude_Frame_37
+    originalName: 
+    pivot: {x: 0.4, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 38
+      width: 80
+      height: 20
+    spriteID: d646648a256a28749a61f2d35d839ba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 38}
+  - name: Shotgun hammer dude_Frame_38
+    originalName: 
+    pivot: {x: 0.4, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 411
+      y: 38
+      width: 80
+      height: 16
+    spriteID: 5f891b4a8517a764687df21fe0a2b232
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 411, y: 38}
+  - name: Shotgun hammer dude_Frame_39
+    originalName: 
+    pivot: {x: 1.1428571, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 160
+      width: 28
+      height: 16
+    spriteID: c4d6e8e7c5d91804c8a2be9d4c04bcb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 160}
+  - name: Shotgun hammer dude_Frame_40
+    originalName: 
+    pivot: {x: 0.90000004, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 114
+      width: 20
+      height: 28
+    spriteID: 170c319bcd19d454db4ccd5a51e00767
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 114}
+  - name: Shotgun hammer dude_Frame_41
+    originalName: 
+    pivot: {x: 0.90000004, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 20
+      height: 28
+    spriteID: 8dfeabe0dd80a6143897afd32e3dba07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 160}
+  - name: Shotgun hammer dude_Frame_42
+    originalName: 
+    pivot: {x: 1.0476192, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 114
+      width: 21
+      height: 29
+    spriteID: 3b507875b9904b94daaf60c6ae0436d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 114}
+  - name: Shotgun hammer dude_Frame_43
+    originalName: 
+    pivot: {x: 1.0476192, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 114
+      width: 21
+      height: 29
+    spriteID: 4cdca3356765d8a4f8706c2128c447aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 114}
+  - name: Shotgun hammer dude_Frame_44
+    originalName: 
+    pivot: {x: 1.0476192, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 114
+      width: 21
+      height: 29
+    spriteID: 6e31bd92827f11745a9d193a381b36af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 114}
+  - name: Shotgun hammer dude_Frame_45
+    originalName: 
+    pivot: {x: 1.0952381, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 114
+      width: 21
+      height: 29
+    spriteID: bfa7212b93b57c24e9741d6d73706784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 114}
+  - name: Shotgun hammer dude_Frame_46
+    originalName: 
+    pivot: {x: 1.6818184, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 114
+      width: 22
+      height: 28
+    spriteID: 8ea1e892d8546ac4e928fd6d21934f70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 275, y: 114}
+  - name: Shotgun hammer dude_Frame_47
+    originalName: 
+    pivot: {x: 1.5666666, y: -8.888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 176
+      width: 30
+      height: 9
+    spriteID: a34753a6102df6f48b07f8f7155faa93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 176}
+  - name: Shotgun hammer dude_Frame_48
+    originalName: 
+    pivot: {x: 1.6, y: -8.888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 176
+      width: 30
+      height: 9
+    spriteID: e006e837d20aec74fa12aa02587645db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 176}
+  - name: Shotgun hammer dude_Frame_49
+    originalName: 
+    pivot: {x: 1.5454546, y: -10}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 176
+      width: 33
+      height: 8
+    spriteID: 8fcffe85cf2dd074fb63b31135a1aa37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 176}
+  - name: Shotgun hammer dude_Frame_50
+    originalName: 
+    pivot: {x: 1.5294117, y: -10}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 160
+      width: 34
+      height: 8
+    spriteID: 4b9673ebbb0f25543857d26079c6d3f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 160}
+  - name: Shotgun hammer dude_Frame_51
+    originalName: 
+    pivot: {x: 1.5142859, y: -10}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 97
+      width: 35
+      height: 8
+    spriteID: b7d0e101e4238b1498eaa723f073ac1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 97}
+  - name: Shotgun hammer dude_Frame_52
+    originalName: 
+    pivot: {x: 1.5, y: -10}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 377
+      y: 97
+      width: 36
+      height: 8
+    spriteID: 86e6b49b4225da8438400d5a064ee359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 377, y: 97}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -319320366
+    name: Shotgun hammer dude
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Shotgun hammer dude_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: dca511e2524654440a48817e9ca15cbe
+    - name: Shotgun hammer dude_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: 86b0a65de582c3b458f0287e4460c14e
+    - name: Shotgun hammer dude_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: 64f710cb0b8ce494f8a88cf15f4736d1
+    - name: Shotgun hammer dude_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: d6b088bba8726de439804ef462719eeb
+    - name: Shotgun hammer dude_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: a04a4af7fd995344e9ffde66056c8386
+    - name: Shotgun hammer dude_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: 15f762d16d0972446ad7a9a27512885c
+    - name: Shotgun hammer dude_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: 942befc88900298468516526b755f2d9
+    - name: Shotgun hammer dude_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 78
+        y: 80
+        width: 20
+        height: 28
+      spriteId: ca3a9f21df3c3b94ba6c2be32a7841be
+    - name: Shotgun hammer dude_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 77
+        y: 80
+        width: 21
+        height: 28
+      spriteId: e49c38c7926a28449a46291cb5ff8af5
+    - name: Shotgun hammer dude_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 76
+        y: 82
+        width: 22
+        height: 29
+      spriteId: 0d3b7ad8b0b9292469bd775d0a605b84
+    - name: Shotgun hammer dude_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 78
+        y: 81
+        width: 20
+        height: 31
+      spriteId: 53e05afdfddf44145939bb92a9cecec3
+    - name: Shotgun hammer dude_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 81
+        y: 80
+        width: 15
+        height: 28
+      spriteId: 165e2636416ec04478daa42ee369c13d
+    - name: Shotgun hammer dude_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 81
+        y: 80
+        width: 15
+        height: 28
+      spriteId: ab3985d7e677c604db4a0d77f8033b4c
+    - name: Shotgun hammer dude_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 81
+        y: 82
+        width: 15
+        height: 29
+      spriteId: b64c86f0ca0742a4dbeefd93e991e2b4
+    - name: Shotgun hammer dude_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 81
+        y: 81
+        width: 15
+        height: 31
+      spriteId: 121dc3439c11a5345b455736efdfeda9
+    - name: Shotgun hammer dude_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 79
+        y: 80
+        width: 19
+        height: 28
+      spriteId: 06140cabc4fd1a74aac157e586035478
+    - name: Shotgun hammer dude_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 79
+        y: 80
+        width: 18
+        height: 28
+      spriteId: 4416a17dd7715fc4ca125046ce0df2b9
+    - name: Shotgun hammer dude_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 77
+        y: 80
+        width: 22
+        height: 31
+      spriteId: 4b251f24bedb09a48bb91aeb849bcbf0
+    - name: Shotgun hammer dude_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 58
+        y: 80
+        width: 39
+        height: 31
+      spriteId: dd77ad69812c7f0429ba7094858432ff
+    - name: Shotgun hammer dude_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 57
+        y: 80
+        width: 38
+        height: 31
+      spriteId: a2b8c82ec1d654342818fa2cdc817e2b
+    - name: Shotgun hammer dude_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 58
+        y: 80
+        width: 36
+        height: 31
+      spriteId: 9e453b2e466c1af44a26877a0510c9a7
+    - name: Shotgun hammer dude_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 59
+        y: 80
+        width: 57
+        height: 33
+      spriteId: 77b78e15143a1c54cbac0e484bc3f40e
+    - name: Shotgun hammer dude_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 64
+        y: 80
+        width: 52
+        height: 34
+      spriteId: 956bc340231287a4ebc13706c5803953
+    - name: Shotgun hammer dude_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 63
+        y: 80
+        width: 53
+        height: 35
+      spriteId: 96c73768362933a458e04290de5d7814
+    - name: Shotgun hammer dude_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 62
+        y: 80
+        width: 55
+        height: 36
+      spriteId: b8586e682c34e9042b0b5c76bde2ed63
+    - name: Shotgun hammer dude_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 65
+        y: 80
+        width: 53
+        height: 37
+      spriteId: 0fa80f4cb97e6b44f9fb7db1359bca5e
+    - name: Shotgun hammer dude_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 64
+        y: 80
+        width: 55
+        height: 37
+      spriteId: 288632c2061c03841b0cf289030f0b0a
+    - name: Shotgun hammer dude_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 82
+        y: 80
+        width: 38
+        height: 38
+      spriteId: f31ee47b6f783a649bf9a42853d36eaf
+    - name: Shotgun hammer dude_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 83
+        y: 80
+        width: 38
+        height: 33
+      spriteId: ee550d716310085448b40cc07e596407
+    - name: Shotgun hammer dude_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 68
+        y: 80
+        width: 110
+        height: 23
+      spriteId: bd615dff106fcbe4ba5f7811a48ce4fc
+    - name: Shotgun hammer dude_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 65
+        y: 80
+        width: 119
+        height: 24
+      spriteId: 67439419c652dd44bac929bee0c9dcc8
+    - name: Shotgun hammer dude_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 64
+        y: 80
+        width: 120
+        height: 25
+      spriteId: fb0ffbdb1fead8c40a3460562a450c4d
+    - name: Shotgun hammer dude_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 64
+        y: 80
+        width: 121
+        height: 26
+      spriteId: 3bd0ea5dfa0371f4d9b7a79edf584dfb
+    - name: Shotgun hammer dude_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 64
+        y: 80
+        width: 110
+        height: 23
+      spriteId: cdefd7fdb2121814bb310746488e0afb
+    - name: Shotgun hammer dude_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 64
+        y: 80
+        width: 106
+        height: 23
+      spriteId: 0252fcc7b5d4b8849b6c300562f63240
+    - name: Shotgun hammer dude_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 64
+        y: 80
+        width: 79
+        height: 19
+      spriteId: 4e373bdb80eec364c83e89b96a84b75f
+    - name: Shotgun hammer dude_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 64
+        y: 80
+        width: 80
+        height: 20
+      spriteId: 27a668324a62eba438a33cad4c891c12
+    - name: Shotgun hammer dude_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 64
+        y: 80
+        width: 80
+        height: 20
+      spriteId: d646648a256a28749a61f2d35d839ba0
+    - name: Shotgun hammer dude_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 64
+        y: 80
+        width: 80
+        height: 16
+      spriteId: 5f891b4a8517a764687df21fe0a2b232
+    - name: Shotgun hammer dude_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 64
+        y: 80
+        width: 28
+        height: 16
+      spriteId: c4d6e8e7c5d91804c8a2be9d4c04bcb7
+    - name: Shotgun hammer dude_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 78
+        y: 80
+        width: 20
+        height: 28
+      spriteId: 170c319bcd19d454db4ccd5a51e00767
+    - name: Shotgun hammer dude_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 78
+        y: 80
+        width: 20
+        height: 28
+      spriteId: 8dfeabe0dd80a6143897afd32e3dba07
+    - name: Shotgun hammer dude_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 74
+        y: 80
+        width: 21
+        height: 29
+      spriteId: 3b507875b9904b94daaf60c6ae0436d6
+    - name: Shotgun hammer dude_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 74
+        y: 80
+        width: 21
+        height: 29
+      spriteId: 4cdca3356765d8a4f8706c2128c447aa
+    - name: Shotgun hammer dude_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 74
+        y: 80
+        width: 21
+        height: 29
+      spriteId: 6e31bd92827f11745a9d193a381b36af
+    - name: Shotgun hammer dude_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 73
+        y: 80
+        width: 21
+        height: 29
+      spriteId: bfa7212b93b57c24e9741d6d73706784
+    - name: Shotgun hammer dude_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 59
+        y: 80
+        width: 22
+        height: 28
+      spriteId: 8ea1e892d8546ac4e928fd6d21934f70
+    - name: Shotgun hammer dude_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 49
+        y: 80
+        width: 30
+        height: 9
+      spriteId: a34753a6102df6f48b07f8f7155faa93
+    - name: Shotgun hammer dude_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 48
+        y: 80
+        width: 30
+        height: 9
+      spriteId: e006e837d20aec74fa12aa02587645db
+    - name: Shotgun hammer dude_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 45
+        y: 80
+        width: 33
+        height: 8
+      spriteId: 8fcffe85cf2dd074fb63b31135a1aa37
+    - name: Shotgun hammer dude_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 44
+        y: 80
+        width: 34
+        height: 8
+      spriteId: 4b9673ebbb0f25543857d26079c6d3f6
+    - name: Shotgun hammer dude_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 43
+        y: 80
+        width: 35
+        height: 8
+      spriteId: b7d0e101e4238b1498eaa723f073ac1c
+    - name: Shotgun hammer dude_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 42
+        y: 80
+        width: 36
+        height: 8
+      spriteId: 86e6b49b4225da8438400d5a064ee359
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

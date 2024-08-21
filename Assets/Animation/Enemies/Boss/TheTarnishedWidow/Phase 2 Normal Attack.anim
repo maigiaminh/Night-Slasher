@@ -1,0 +1,1124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Phase 2 Normal Attack
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.18
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.86
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 3.24
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: range
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.18
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.86
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 3.24
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: colDistance
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+    flags: 0
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: -248836962810073803, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.1
+      value: {fileID: -8945099363323739750, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.2
+      value: {fileID: 6853581654164899907, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.3
+      value: {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.4
+      value: {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.5
+      value: {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.6
+      value: {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.7
+      value: {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.8
+      value: {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.9
+      value: {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 0.98
+      value: {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.08
+      value: {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.18
+      value: {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.28
+      value: {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.38
+      value: {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.48
+      value: {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.58
+      value: {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.66
+      value: {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.76
+      value: {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.86
+      value: {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 1.96
+      value: {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.06
+      value: {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.16
+      value: {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.26
+      value: {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.36
+      value: {fileID: 2381555012179175369, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.46
+      value: {fileID: -86867190132439988, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.56
+      value: {fileID: -7817915425176353000, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.65
+      value: {fileID: -4160805894623802907, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.75
+      value: {fileID: 7540337283023377218, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.85
+      value: {fileID: -5965225732827262023, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 2.95
+      value: {fileID: 3639706754774913565, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 3.04
+      value: {fileID: 6558801085815761299, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 3.14
+      value: {fileID: 8530626819304335648, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - time: 3.24
+      value: {fileID: 8530626819304335648, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 100
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 2475121225
+      script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+      typeID: 114
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 3100396326
+      script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+      typeID: 114
+      customType: 0
+      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: -248836962810073803, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -8945099363323739750, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 6853581654164899907, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4642452888938352349, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -189624270535444119, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 1444978747897887557, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 4622786658229194016, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -3556929545283680179, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 6992227356101351004, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4714175064726656987, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 2381555012179175369, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -86867190132439988, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -7817915425176353000, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -4160805894623802907, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 7540337283023377218, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: -5965225732827262023, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 3639706754774913565, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 6558801085815761299, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 8530626819304335648, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+    - {fileID: 8530626819304335648, guid: a1dce5989a7cd9d4da40df355af9e492, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 3.25
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 0
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.18
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.86
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 3.24
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: range
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.18
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.86
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 3.24
+        value: 32
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: colDistance
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: d1ccd0e54159a6d45ba7c567d7484701, type: 3}
+    flags: 0
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.49
+    functionName: AttackSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.49
+    functionName: ShakeCamera
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.5
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.51
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.52
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.53
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.54
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.55
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.56
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.57
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.58
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.59
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.6
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.61
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.62
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.63
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.64
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.65
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.66
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.67
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.68
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.69
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.7
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.71
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.72
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.73
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.74
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.75
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.76
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.77
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.78
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.79
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.18
+    functionName: ShakeCamera
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.18
+    functionName: AttackSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1899999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.1999999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.2099999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.2199999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.23
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.24
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.25
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.26
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.27
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.28
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.29
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.31
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3199999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3299999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3399999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3499999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3599999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3699999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3799999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3899999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3999999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.41
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.42
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.43
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4399999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4499999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4599999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4699999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.48
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.49
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.86
+    functionName: AttackSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.86
+    functionName: ShakeCamera
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.87
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.88
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.89
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.9
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.91
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.9200001
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.9300001
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.94
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.95
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.96
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.97
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.98
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.99
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.01
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.02
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.03
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.04
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.05
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.06
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.07
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.08
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.09
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.1
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.1100001
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.12
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.13
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.1399999
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.15
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.1599998
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.17
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.18
+    functionName: AttackPlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.24
+    functionName: FinishAnimation
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

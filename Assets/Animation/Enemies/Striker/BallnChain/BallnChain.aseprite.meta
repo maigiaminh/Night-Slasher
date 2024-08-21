@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: b2def8b7d4bff924482fd9305f17d8ff
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638372624702959457
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BallnChain_Frame_0
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 205
+      width: 97
+      height: 29
+    spriteID: 953569af34d078248bd6f5391163d98c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 205}
+  - name: BallnChain_Frame_1
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 205
+      width: 97
+      height: 29
+    spriteID: 203fa79e2dc6bf049a9336d580b9474f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 205}
+  - name: BallnChain_Frame_2
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 243
+      width: 97
+      height: 29
+    spriteID: b658f16dcbc4a2f45b43a62cc15a04b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 243}
+  - name: BallnChain_Frame_3
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 243
+      width: 97
+      height: 29
+    spriteID: f567d90f1754a354eba9e29ab71ae4d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 243}
+  - name: BallnChain_Frame_4
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 243
+      width: 97
+      height: 29
+    spriteID: 08ea7d9f1772a82418c52a6d58ca0fbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 243}
+  - name: BallnChain_Frame_5
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 243
+      width: 97
+      height: 29
+    spriteID: eb1b3d04a315ac84a82b6c3aeb6d416f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 243}
+  - name: BallnChain_Frame_6
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.8518517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 317
+      width: 97
+      height: 27
+    spriteID: 618aa81168e16ea44a32a9467d17e3f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 317}
+  - name: BallnChain_Frame_7
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 4
+      width: 97
+      height: 32
+    spriteID: 5a2421cc82f0088409874ff61d0c7edf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 4}
+  - name: BallnChain_Frame_8
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 47
+      width: 97
+      height: 33
+    spriteID: f3036280d3af01644b32f7dfd057f511
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: 47}
+  - name: BallnChain_Frame_9
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 97
+      height: 32
+    spriteID: 1b0399eaf476b304bb71e920a55ebf9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 127}
+  - name: BallnChain_Frame_10
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.8518517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 317
+      width: 97
+      height: 27
+    spriteID: 4f2b2736aa952604e8480c86a4708661
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 317}
+  - name: BallnChain_Frame_11
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 127
+      width: 97
+      height: 30
+    spriteID: b4672a9732d3258429bc2756126b79fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 127}
+  - name: BallnChain_Frame_12
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.4838707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 88
+      width: 97
+      height: 31
+    spriteID: 11a199e92f23d2a458e19479cf06291d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 88}
+  - name: BallnChain_Frame_13
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 167
+      width: 97
+      height: 30
+    spriteID: 59607c109e8f41a40a4b6edc587bfc5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 167}
+  - name: BallnChain_Frame_14
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 280
+      width: 97
+      height: 29
+    spriteID: 6c27b05571a39a244aeb0cf4f9d1f71e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 280}
+  - name: BallnChain_Frame_15
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 280
+      width: 97
+      height: 29
+    spriteID: 29ae3715cabe5b44da346f34f8b5dc17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 280}
+  - name: BallnChain_Frame_16
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 280
+      width: 97
+      height: 29
+    spriteID: f834948c3d48cb946b4939abd8b835f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 280}
+  - name: BallnChain_Frame_17
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.4838707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 88
+      width: 97
+      height: 31
+    spriteID: fdbe8b5faf26d874fa6e44a5e7958701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 373, y: 88}
+  - name: BallnChain_Frame_18
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.4838707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 127
+      width: 97
+      height: 31
+    spriteID: 0bc820df95ea9dd4e80be898a833072b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 127}
+  - name: BallnChain_Frame_19
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.4838707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 127
+      width: 97
+      height: 31
+    spriteID: cabf2bb83152f194ea1e6bb2fa90ab23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 127}
+  - name: BallnChain_Frame_20
+    originalName: 
+    pivot: {x: 0.59836066, y: -2.3548386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 88
+      width: 122
+      height: 31
+    spriteID: 0c4cd1d91a54cf844bfc048bda3acef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 88}
+  - name: BallnChain_Frame_21
+    originalName: 
+    pivot: {x: 0.58870965, y: -2.1818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 47
+      width: 124
+      height: 33
+    spriteID: 7df8697853de5c24d9970e124230166e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 47}
+  - name: BallnChain_Frame_22
+    originalName: 
+    pivot: {x: 0.584, y: -2.1818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 47
+      width: 125
+      height: 33
+    spriteID: f171b5fa64673b44fb6f5da0fde61083
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 47}
+  - name: BallnChain_Frame_23
+    originalName: 
+    pivot: {x: 0.57936513, y: -2.3870966}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 88
+      width: 126
+      height: 31
+    spriteID: 34b9110ebc27efb45ac9569e8b4407d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 88}
+  - name: BallnChain_Frame_24
+    originalName: 
+    pivot: {x: 0.60833335, y: -2.2121212}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 47
+      width: 120
+      height: 33
+    spriteID: 5d1c0ef22d9538341869bb5b7698bd6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 47}
+  - name: BallnChain_Frame_25
+    originalName: 
+    pivot: {x: 0.59836066, y: -2.0285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 122
+      height: 35
+    spriteID: f98785bec96f8d84f9c1e8f505262918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: BallnChain_Frame_26
+    originalName: 
+    pivot: {x: 0.59836066, y: -2.0285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 122
+      height: 35
+    spriteID: a6ab6e28a1c092246aeae77937fd24b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 4}
+  - name: BallnChain_Frame_27
+    originalName: 
+    pivot: {x: 0.59836066, y: -2.0285714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 264
+      y: 4
+      width: 122
+      height: 35
+    spriteID: f2fe51093b93bff41a6b34ab43aa16f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 264, y: 4}
+  - name: BallnChain_Frame_28
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 280
+      width: 97
+      height: 29
+    spriteID: 835da1218222fe54b95457307e2568e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 280}
+  - name: BallnChain_Frame_29
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.6551723}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 317
+      width: 97
+      height: 29
+    spriteID: 2041de401685bb9418b69caf4ba24f5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 317}
+  - name: BallnChain_Frame_30
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 167
+      width: 97
+      height: 30
+    spriteID: 9c05f9bf2371d56438ca1f49dbea3922
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 167}
+  - name: BallnChain_Frame_31
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 167
+      width: 97
+      height: 30
+    spriteID: 22c08bace0b2f46469a633beac8f1c08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 167}
+  - name: BallnChain_Frame_32
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 167
+      width: 97
+      height: 30
+    spriteID: c6b2d5e4b91c88d48b0bb8610dbc4690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 167}
+  - name: BallnChain_Frame_33
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 205
+      width: 97
+      height: 30
+    spriteID: 27d272c975c69054e95b53d69bf64a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 205}
+  - name: BallnChain_Frame_34
+    originalName: 
+    pivot: {x: 0.75257736, y: -2.5333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 205
+      width: 97
+      height: 30
+    spriteID: 4006dbeb5c0c74f47b88524854e2924e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 205}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1461392920
+    name: BallnChain
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BallnChain_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 953569af34d078248bd6f5391163d98c
+    - name: BallnChain_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 203fa79e2dc6bf049a9336d580b9474f
+    - name: BallnChain_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: b658f16dcbc4a2f45b43a62cc15a04b0
+    - name: BallnChain_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: f567d90f1754a354eba9e29ab71ae4d4
+    - name: BallnChain_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 08ea7d9f1772a82418c52a6d58ca0fbd
+    - name: BallnChain_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: eb1b3d04a315ac84a82b6c3aeb6d416f
+    - name: BallnChain_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 27
+      spriteId: 618aa81168e16ea44a32a9467d17e3f2
+    - name: BallnChain_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 32
+      spriteId: 5a2421cc82f0088409874ff61d0c7edf
+    - name: BallnChain_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 33
+      spriteId: f3036280d3af01644b32f7dfd057f511
+    - name: BallnChain_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 32
+      spriteId: 1b0399eaf476b304bb71e920a55ebf9f
+    - name: BallnChain_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 27
+      spriteId: 4f2b2736aa952604e8480c86a4708661
+    - name: BallnChain_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 30
+      spriteId: b4672a9732d3258429bc2756126b79fb
+    - name: BallnChain_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 31
+      spriteId: 11a199e92f23d2a458e19479cf06291d
+    - name: BallnChain_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 30
+      spriteId: 59607c109e8f41a40a4b6edc587bfc5e
+    - name: BallnChain_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 6c27b05571a39a244aeb0cf4f9d1f71e
+    - name: BallnChain_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 29ae3715cabe5b44da346f34f8b5dc17
+    - name: BallnChain_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: f834948c3d48cb946b4939abd8b835f0
+    - name: BallnChain_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 31
+      spriteId: fdbe8b5faf26d874fa6e44a5e7958701
+    - name: BallnChain_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 31
+      spriteId: 0bc820df95ea9dd4e80be898a833072b
+    - name: BallnChain_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 31
+      spriteId: cabf2bb83152f194ea1e6bb2fa90ab23
+    - name: BallnChain_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 23
+        y: 73
+        width: 122
+        height: 31
+      spriteId: 0c4cd1d91a54cf844bfc048bda3acef9
+    - name: BallnChain_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 23
+        y: 72
+        width: 124
+        height: 33
+      spriteId: 7df8697853de5c24d9970e124230166e
+    - name: BallnChain_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 23
+        y: 72
+        width: 125
+        height: 33
+      spriteId: f171b5fa64673b44fb6f5da0fde61083
+    - name: BallnChain_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 23
+        y: 74
+        width: 126
+        height: 31
+      spriteId: 34b9110ebc27efb45ac9569e8b4407d5
+    - name: BallnChain_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 23
+        y: 73
+        width: 120
+        height: 33
+      spriteId: 5d1c0ef22d9538341869bb5b7698bd6c
+    - name: BallnChain_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 23
+        y: 71
+        width: 122
+        height: 35
+      spriteId: f98785bec96f8d84f9c1e8f505262918
+    - name: BallnChain_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 23
+        y: 71
+        width: 122
+        height: 35
+      spriteId: a6ab6e28a1c092246aeae77937fd24b0
+    - name: BallnChain_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 23
+        y: 71
+        width: 122
+        height: 35
+      spriteId: f2fe51093b93bff41a6b34ab43aa16f4
+    - name: BallnChain_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 835da1218222fe54b95457307e2568e9
+    - name: BallnChain_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 23
+        y: 77
+        width: 97
+        height: 29
+      spriteId: 2041de401685bb9418b69caf4ba24f5b
+    - name: BallnChain_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 23
+        y: 76
+        width: 97
+        height: 30
+      spriteId: 9c05f9bf2371d56438ca1f49dbea3922
+    - name: BallnChain_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 23
+        y: 76
+        width: 97
+        height: 30
+      spriteId: 22c08bace0b2f46469a633beac8f1c08
+    - name: BallnChain_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 23
+        y: 76
+        width: 97
+        height: 30
+      spriteId: c6b2d5e4b91c88d48b0bb8610dbc4690
+    - name: BallnChain_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 23
+        y: 76
+        width: 97
+        height: 30
+      spriteId: 27d272c975c69054e95b53d69bf64a29
+    - name: BallnChain_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 23
+        y: 76
+        width: 97
+        height: 30
+      spriteId: 4006dbeb5c0c74f47b88524854e2924e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}
